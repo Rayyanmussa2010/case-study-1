@@ -1,0 +1,17 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: pink;
+}
+.text_images_and_results{
+margin: 50px;
+}
+.flex, .flex img {
+border-radius: 20px;
+border: 3px white;
+box-shadow: 5px 5px 18px grey;
+display:flex;
+flex-wrap: wrap;
+flex-direction: row;
+margin: 10px;
+text-align: center;
+}
